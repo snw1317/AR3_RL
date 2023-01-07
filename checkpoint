@@ -1,0 +1,2 @@
+model_checkpoint_path: "AR3params"
+all_model_checkpoint_paths: "AR3params"
